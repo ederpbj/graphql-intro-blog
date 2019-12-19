@@ -1,0 +1,12 @@
+{
+  "name": "graphql-intro-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ederpbj/graphql-intro-blog.git",
+  "author": "ederpbj <ederpbj@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.8.1"
+  }
+}

@@ -17,5 +17,22 @@ module.exports = {
    email
   }),
   
- }
+ },
+ 
 };
+
+
+//Array estatico para testar
+/*
+const users = [{
+    id: 1,
+    name: "Thiago",
+    email: "tgmarinho@gmail.com"
+   },
+   {
+    id: 2,
+    name: "Diego",
+    email: "diego@rocketseat.com"
+   }
+  ];
+*/
